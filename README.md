@@ -3,7 +3,7 @@
 Thank you for your interest in my talk. To keep things short on stage, I omitted a list of resources I recommend if you're interested in low-level stuff or the Game Boy in particular. This README contains a bunch or resources to get started.
 
 # Talk Recording
-As soon the recording is live, I'll link it here.
+You can find the recording [here](https://www.youtube.com/watch?v=vI30OvU3QW0)
 
 # Talk Demos
 My talk featured two demos, the first is the Game Boy emulator that I built in Elm. [You can play it here (Works best in Chome)](https://malax.github.io/elmboy/) or [explore the source](https://github.com/Malax/elmboy).
@@ -15,7 +15,7 @@ The second demo featured a rediculously simplified Game Boy emulator that calcul
 ### [The Ultimate Game Boy Talk](https://www.youtube.com/watch?v=HyzD8pNlpwI)
 Very in-depth talk about the Game Boy and how it works. This talk also covers all the other subsystems if you're interested in them. I watched this a lot in the beginning of the process implementing Elmboy.
 
-### [Game Boy Opcode Table](http://www.pastraiser.com/cpu/gameboy/gameboy_opcodes.html)
+### [Game Boy Opcode Table](https://max-m.github.io/gb-docs/optables/classic)
 Opcode Table for the Game Boy CPU. This is what I used to keep track of my implementation process.
 
 ### [Awesome Game Boy Development](https://github.com/gbdev/awesome-gbdev)
